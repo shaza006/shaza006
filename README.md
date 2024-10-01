@@ -7,7 +7,7 @@ I'm Shaza, a badminton player and an Artist.
 - 👯 I’m looking to graduate and work in a company
 
 ## My favorite things to do 
-![Reading, this is my favorite book](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1664869307i/62876824.jpg)
+![Reading](https://i0.wp.com/wearerestless.org/wp-content/uploads/2021/02/Reading-scaled.jpg?resize=1155%2C770&ssl=1)
 ![playing badminton](https://www.playgroundequipment.com/image/data/badminton-1428046_1280.jpg)
 
 ## My favorite poets
