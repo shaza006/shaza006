@@ -1,15 +1,16 @@
-## Hello, world! 
-<!--
-**shaza006/shaza006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello, world! 👋
+I'm Shaza, a badminton player and an Artist.
 
-Here are some ideas to get you started:
+## About Me
+- 🔭 I’m currently working on to be a successful graphic designer
+- 🌱 I’m currently learning in SAIT
+- 👯 I’m looking to graduate and work in a company
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My favorite things to do 
+![Reading, this is my favorite book](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1664869307i/62876824.jpg)
+![playing badminton](https://www.playgroundequipment.com/image/data/badminton-1428046_1280.jpg)
+
+## My favorite poets
+- [Mahmoud Darwish](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSRJafm6ZZAkQYRiJxHT8714UxN5eYpxZXTzzlLkY9nftUQc3sP)
+- [Nizar Qabbani](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSEZzc-VrBx7JbzM27pCONrl-pR-ls05rZMnGZ53fEdc20cjMvJ)
+
