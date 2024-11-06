@@ -13,4 +13,3 @@ I'm Shaza, a badminton player and an Artist.
 ## My favorite poets
 - [Mahmoud Darwish](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSRJafm6ZZAkQYRiJxHT8714UxN5eYpxZXTzzlLkY9nftUQc3sP)
 - [Nizar Qabbani](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSEZzc-VrBx7JbzM27pCONrl-pR-ls05rZMnGZ53fEdc20cjMvJ)
-
